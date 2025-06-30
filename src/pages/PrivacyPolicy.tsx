@@ -101,7 +101,7 @@ const PrivacyPolicy = () => {
                       <strong>Website created by:</strong>{' '}
                       <a 
                         href="mailto:info@datasciencetech.ca" 
-                        className="text-blue-600 hover:text-blue-800"
+                        className="text-purple-600 hover:text-purple-800"
                       >
                         Data Science Tech
                       </a>
